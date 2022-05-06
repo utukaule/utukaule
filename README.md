@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Kaule</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=utukaule&label=Profile%20views&color=0e75b6&style=flat" alt="utukaule" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=utukaule&label=Profile%20views&color=0e75b6&style=flat" alt="utukaule" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utukaule" alt="utukaule" /></a> </p> -->
 
